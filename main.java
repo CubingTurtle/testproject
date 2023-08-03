@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-class cardboardbox {
+class main {
   public static void main(String []args) {
     Scanner read = new Scanner (System.in);
     System.out.println("Hello user, how are you doing");
